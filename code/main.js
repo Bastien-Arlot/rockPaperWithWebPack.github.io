@@ -1,3 +1,4 @@
+import {}
 function makeChoiceImage(choice) {
     const image = new Image(100, 100);
     if (choice === 'Scissors') {
